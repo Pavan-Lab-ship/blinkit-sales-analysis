@@ -1,4 +1,4 @@
-=Blinkit Sales Analysis
+Blinkit Sales Analysis
 This repository contains the Blinkit Sales Analysis project, which aims to analyze sales data from Blinkit. The project focuses on identifying sales trends, patterns, and key performance indicators (KPIs) to provide actionable insights for business decision-making.
 
 Repository Structure
